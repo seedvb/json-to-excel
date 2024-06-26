@@ -1,0 +1,21 @@
+{
+  "name": "exc",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vxe-ui/plugin-render-chart": "^4.0.1",
+    "element-plus": "^2.7.6",
+    "vue": "^3.4.29",
+    "vxe-table": "^4.7.36"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
